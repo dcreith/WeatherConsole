@@ -22,10 +22,10 @@ speed. If WeatherUnderground information is not available it is left blank.
 ![Weather](images/WeatherConsole.jpg?raw=true "Weather")
 
 **Console Control**
-![Weather](images/WeatherConsole_2.jpg?raw=true "Console")
+![Console Control](images/WeatherConsole_2.jpg?raw=true "Console")
 
 **Station Control**
-![Weather](images/WeatherConsole_3.jpg?raw=true "Station")
+![StationControl](images/WeatherConsole_3.jpg?raw=true "Station")
 
 **Prerequisites:**
 
