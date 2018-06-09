@@ -30,7 +30,10 @@ speed. If WeatherUnderground information is not available it is left blank.
 **Prerequisites:**
 
 Raspberry Pi (anything that supports the 7" multi touch screen)
+
 7" Multi Touch Screen
+
+![Python Multitouch Library](https://github.com/pimoroni/python-multitouch)
 
 **Setup**
 
