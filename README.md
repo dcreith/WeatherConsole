@@ -22,13 +22,13 @@ speed. If WeatherUnderground information is not available it is left blank.
 ![Weather](images/WeatherConsole.jpg?raw=true "Weather")
 
 **Console Control**
-![Console Control](images/WeatherConsole_2.jpg?raw=true "Console")
+![Console Control](images/WeatherConsole_2.JPG?raw=true "Console")
 
 **Station Control**
 ![StationControl](images/WeatherConsole_3.jpg?raw=true "Station")
 
 **Prerequisites:**
- 
+
 Raspberry Pi (anything that supports the 7" multi touch screen)
 7" Multi Touch Screen
 
