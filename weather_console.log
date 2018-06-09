@@ -1,0 +1,23 @@
+2018-03-01 09:38:00,380 - weather_pi - WARNING - .....WS URL             :http://192.168.0.99/weather/assets/ajax/aQueryCurrent.php
+2018-03-01 09:38:00,402 - weather_pi - WARNING - .....WS String          :si=6100245999979349
+2018-03-01 09:56:04,936 - weather_pi - WARNING - Data From Station Is Stale, Settings:{u'Status': u'Current', u'DisplayDim': 0, u'DisplayOn': 1, u'ColdFrameOn': 1, u'Updated': u'2018-03-01 09:40:03', u'StationID': u'6100245999979349', u'WUUpload': 15}
+2018-03-01 09:58:03,904 - weather_pi - WARNING - Data From Station Is Stale, Settings:{u'Status': u'Current', u'DisplayDim': 0, u'DisplayOn': 1, u'ColdFrameOn': 1, u'Updated': u'2018-03-01 09:40:03', u'StationID': u'6100245999979349', u'WUUpload': 15}
+2018-03-01 10:00:00,002 - weather_pi - DEBUG - determine_brightness /nighttime n==>10
+2018-03-01 10:00:00,007 - weather_pi - DEBUG - determine_brightness /daytime n==>10
+2018-03-01 10:00:00,013 - weather_pi - DEBUG - determine_brightness Brightness=s=>60
+2018-03-01 10:00:00,143 - weather_pi - DEBUG - determine_brightness Brightness=l=>60
+2018-03-01 10:00:01,478 - weather_pi - DEBUG - fcst ==>Wed cloudy
+2018-03-01 10:00:01,484 - weather_pi - DEBUG - fcst ==>Thu snow
+2018-03-01 10:00:01,490 - weather_pi - DEBUG - fcst ==>Fri snow
+2018-03-01 10:00:01,494 - weather_pi - DEBUG - fcst ==>Sat snow
+2018-03-01 10:00:05,442 - weather_pi - WARNING - Data From Station Is Stale, Settings:{u'Status': u'Current', u'DisplayDim': 0, u'DisplayOn': 1, u'ColdFrameOn': 1, u'Updated': u'2018-03-01 09:40:03', u'StationID': u'6100245999979349', u'WUUpload': 15}
+2018-03-01 10:02:03,861 - weather_pi - WARNING - Data From Station Is Stale, Settings:{u'Status': u'Current', u'DisplayDim': 0, u'DisplayOn': 1, u'ColdFrameOn': 1, u'Updated': u'2018-03-01 09:40:03', u'StationID': u'6100245999979349', u'WUUpload': 15}
+2018-03-01 10:04:04,115 - weather_pi - WARNING - Data From Station Is Stale, Settings:{u'Status': u'Current', u'DisplayDim': 0, u'DisplayOn': 1, u'ColdFrameOn': 1, u'Updated': u'2018-03-01 09:40:03', u'StationID': u'6100245999979349', u'WUUpload': 15}
+2018-03-01 11:00:00,007 - weather_pi - DEBUG - determine_brightness /nighttime n==>11
+2018-03-01 11:00:00,013 - weather_pi - DEBUG - determine_brightness /daytime n==>11
+2018-03-01 11:00:00,017 - weather_pi - DEBUG - determine_brightness Brightness=s=>60
+2018-03-01 11:00:00,142 - weather_pi - DEBUG - determine_brightness Brightness=l=>60
+2018-03-01 11:00:01,202 - weather_pi - DEBUG - fcst ==>Thu mostlycloudy
+2018-03-01 11:00:01,210 - weather_pi - DEBUG - fcst ==>Fri partlycloudy
+2018-03-01 11:00:01,217 - weather_pi - DEBUG - fcst ==>Sat partlycloudy
+2018-03-01 11:00:01,225 - weather_pi - DEBUG - fcst ==>Sun clear
