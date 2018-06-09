@@ -17,6 +17,12 @@ high are shown.
 Forecasts are pulled from WeatherUnderground with the local wind direction and
 speed. If WeatherUnderground information is not available it is left blank.
 
+I combined some of the ft5406 touch functionality with a library I hijacked from
+another project to get better control over button placement & what I could show
+(or not show) in a button.
+
+(See ![LapsePiTouch](https://github.com/climberhunt/LapsePiTouch) for info on
+secondary touch handler)
 
 **Weather**
 ![Weather](images/WeatherConsole.jpg?raw=true "Weather")
@@ -31,9 +37,10 @@ speed. If WeatherUnderground information is not available it is left blank.
 
 Raspberry Pi (anything that supports the 7" multi touch screen)
 
-7" Multi Touch Screen
+7" Multi Touch Screen (I had to run separate power jumpers although the
+ documentation claims you don't need them)
 
-![Python Multitouch Library](https://github.com/pimoroni/python-multitouch)
+![Python Multitouch (FT5406) Library](https://github.com/pimoroni/python-multitouch)
 
 **Setup**
 
