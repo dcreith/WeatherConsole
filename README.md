@@ -2,7 +2,7 @@ WeatherConsole
 ==============
 
 WeatherConsole is a Python application making use of a 7" multi-touch screen to
-display data from a local db and WeatherUnderground.
+display data from a DB and WeatherUnderground.
 
 See the WeatherPi & WeatherServer repositories for complementary applications
 that capture and log the data.
@@ -17,10 +17,15 @@ high are shown.
 Forecasts are pulled from WeatherUnderground with the local wind direction and
 speed. If WeatherUnderground information is not available it is left blank.
 
- 
-**Weather Console**
-![Weather](images/WeatherConsole.jpg?raw=true "Console")
 
+**Weather**
+![Weather](images/WeatherConsole.jpg?raw=true "Weather")
+
+**Console Control**
+![Weather](images/WeatherConsole_2.jpg?raw=true "Console")
+
+**Station Control**
+![Weather](images/WeatherConsole_3.jpg?raw=true "Station")
 
 **Prerequisites:**
 
