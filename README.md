@@ -28,7 +28,7 @@ speed. If WeatherUnderground information is not available it is left blank.
 ![StationControl](images/WeatherConsole_3.jpg?raw=true "Station")
 
 **Prerequisites:**
-
+ 
 Raspberry Pi (anything that supports the 7" multi touch screen)
 7" Multi Touch Screen
 
